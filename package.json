@@ -1,0 +1,18 @@
+{
+  "name": "9feb_1",
+  "version": "1.0.0",
+  "description": "Tutorial Node.js server with Express.js serving Hello world and Good evening endpoints",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "tutorial"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "5.2.1"
+  }
+}
